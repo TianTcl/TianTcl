@@ -8,9 +8,9 @@
 
 #### View more of my profile on [my infosite](https://info.TianTcl.net/v2/).
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TianTcl&theme=dark&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianTcl&theme=dark)
-![My github stats](https://github-readme-stats.vercel.app/api?username=TianTcl&show_icons=true&theme=dark)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TianTcl&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianTcl&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=TianTcl&show_icons=true&theme=radical)
 
 ### **My Social Media Links**
 
