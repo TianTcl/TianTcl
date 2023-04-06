@@ -4,9 +4,9 @@
  - 📫 How to reach me: [TianTcl.C@gmail.com](mailto:TianTcl.C@gmail.com).
  - ⚡ Fun fact: I still don't know what cause those bugs. :cry:
  - 😄 Pronouns: You can also call my Tecillium
- - 🤔 I'm 15 Years old, From Thailand <🇹🇭>
+ - 🤔 Born 2005, From Thailand (🇹🇭)
 
-#### View more of my profile on [my infosite](https://info.TianTcl.net/v2/).
+#### View more of my profile on [my infosite](https://info.TianTcl.net).
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TianTcl&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianTcl&theme=radical)
